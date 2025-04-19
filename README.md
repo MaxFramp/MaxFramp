@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Max Frampton
+# 👋 Hi, I'm Maxwell Frampton
 
 Welcome to my GitHub! I'm an Aerospace Engineer turned Software Developer and Machine Learning enthusiast with a background in test systems, defense software, and full-stack engineering.
 
@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm an Aerospace Engineer turned Software Developer and Ma
 
 ## 🔭 Featured Projects
 
-- 🧭 **NearbyNLU** – NLP-powered backend that translates natural language into structured Google Maps Nearby Search queries for location-based apps  
+- **NearbyNLU** – NLP-powered backend that translates natural language into structured Google Maps Nearby Search queries for location-based apps  
   *Built with TensorFlow, Flask, TypeScript, and synthetic data generation strategies.*
 - **SF40-LiDAR-Python** - Python app with software drivers for Lightware SF40 LiDAR sensor, DAQ, and post-processing, including ML clustering with scikit-learn to segment point cloud into features.
 
